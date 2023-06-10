@@ -4,6 +4,7 @@ import java.util.*;
 * Displays a string.
 * @author R.GOPALAKRISHNAN
 * @author www.rgopalakrishnanmca.simplesite.com
+* @author rgopaplakrishnanmca@gmail.com
 **/
 public class HelloWorld {
 /** Entry point to class & application.
@@ -12,7 +13,7 @@ public class HelloWorld {
 */
 public static void main(String[] args) 
 {
-	System.out.println("Hello, World");
+	System.out.println("Testing Jenkin jar creation successfully done...");	
 }
 } /* Output: (100% match)
 Hello, World
